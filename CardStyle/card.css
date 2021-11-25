@@ -35,8 +35,8 @@ p{
 }
 
 .container .card .face {
-    width: 70%;
-    height: 67%;
+    width: 50%;
+    height: 50%;
     transition: 0.5s;
 
 }

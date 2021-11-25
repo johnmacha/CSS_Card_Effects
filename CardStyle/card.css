@@ -26,6 +26,7 @@ p{
     position:relative;
     display: flex;
     justify-content: space-between;
+    text-align:center;
 }
 
 .container .card{

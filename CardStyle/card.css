@@ -12,13 +12,16 @@ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 
 }
 
-
-h3{
+header{
     text-align: center;
+    display: flex;
     padding-bottom: 30%;
-    color: rgb(206, 202, 194);
+   
 }
+h3{
+    color: rgb(206, 202, 194);
 
+}
 
 .container{
     width:1000px;
